@@ -1,6 +1,4 @@
-# free-pdf-tools# 
-
-Free PDF Tools – Convert, Compress & Manage PDFs Online
+# Free PDF Tools – Convert, Compress & Manage PDFs Online
 
 🚀 A fast, free, and no-signup platform to handle all your PDF and file conversion needs.
 
@@ -11,24 +9,24 @@ Free PDF Tools – Convert, Compress & Manage PDFs Online
 ## 🔧 Tools Available
 
 ### 📄 PDF Tools
-- PDF to Word Converter
-- Word to PDF Converter
-- PDF to Excel Converter
-- Excel to PDF Converter
-- PDF Merge Tool
-- Compress PDF Tool
-- PDF to JPG Converter
+- PDF to Word → https://convertz.yespstudio.com/pdf-to-word  
+- Word to PDF → https://convertz.yespstudio.com/word-to-pdf  
+- PDF to Excel → https://convertz.yespstudio.com/pdf-to-excel  
+- Excel to PDF → https://convertz.yespstudio.com/excel-to-pdf  
+- PDF Merge → https://convertz.yespstudio.com/merge-pdf  
+- Compress PDF → https://convertz.yespstudio.com/compress-pdf  
+- PDF to JPG → https://convertz.yespstudio.com/pdf-to-jpg  
 
 ### 🖼 Image Tools
-- JPG to PDF Converter
-- PNG to JPG Converter
-- HEIC to JPG Converter
+- JPG to PDF → https://convertz.yespstudio.com/jpg-to-pdf  
+- PNG to JPG → https://convertz.yespstudio.com/png-to-jpg  
+- HEIC to JPG → https://convertz.yespstudio.com/heic-to-jpg  
 
 ### 📊 Data Tools
-- CSV to Excel Converter
+- CSV to Excel → https://convertz.yespstudio.com/csv-to-excel  
 
 ### 🎥 Media Tools
-- Video to MP3 Converter
+- Video to MP3 → https://convertz.yespstudio.com/video-to-mp3  
 
 ---
 
@@ -46,14 +44,14 @@ Free PDF Tools – Convert, Compress & Manage PDFs Online
 ## 🎯 Why This Tool?
 
 Most PDF tools are:
-- ❌ Paid
-- ❌ Require login
-- ❌ Slow or limited
+- ❌ Paid  
+- ❌ Require login  
+- ❌ Slow or limited  
 
 This platform is built for:
-- Students 📚
-- Job seekers 💼
-- Daily users 📱
+- Students 📚  
+- Job seekers 💼  
+- Daily users 📱  
 
 ---
 
@@ -67,7 +65,7 @@ This platform is built for:
 
 ---
 
-## 🔗 Try It Now
+## 🔗 Try All Tools
 
 👉 https://convertz.yespstudio.com
 
